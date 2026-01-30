@@ -1,5 +1,5 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
-name: MCP Memory Add-on
+name: MCP Sequential Thinking Add-on
 version: "0.0.1"
 slug: mcp-sequentialthinking
 description: "Sequential Thinking MCP add-on for Home Assistant"
