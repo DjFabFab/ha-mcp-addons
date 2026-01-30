@@ -4,7 +4,6 @@ version: "0.0.1"
 slug: mcp-memory
 description: Memory MCP add-on for Home Assistant
 url: "https://github.com/DjFabFab/ha-mcp-addons"
-audio: false
 host_network: false
 ingress: false
 panel_icon: "mdi:brain"
