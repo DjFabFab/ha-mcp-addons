@@ -5,4 +5,4 @@ This add-on provides a MCP Sequntialthinking Server based on https://github.com/
 ## How to use
 
 1. Install the addon.
-2. Connect mcp server through mcp integration
+2. Connect mcp server through mcp integration: http://localhost:8010/sse
