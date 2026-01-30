@@ -3,7 +3,7 @@ name: MCP Memory Add-on
 version: "0.0.1"
 slug: mcp-sequentialthinking
 description: "Sequential Thinking MCP add-on for Home Assistant"
-url: "https://github.com/DjFabFab/ha-mcp-addons"
+url: "https://github.com/DjFabFab/ha-mcp-addons/tree/main/mcp-sequentialthinking"
 host_network: false
 ingress: false
 panel_icon: "mdi:brain"
@@ -24,4 +24,4 @@ options:
 schema:
   # Use nested option to force yaml editor on addon's config page
   log_level: list(trace|debug|info|notice|warning|error|fatal)
-image: "ghcr.io/djfabfab/{arch}-ha-mcp-sequentialthinking:latest"
+image: "ghcr.io/djfabfab/{arch}-ha-mcp-sequentialthinking"
