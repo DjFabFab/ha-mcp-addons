@@ -21,4 +21,4 @@ options:
 schema:
   # Use nested option to force yaml editor on addon's config page
   log_level: list(trace|debug|info|notice|warning|error|fatal)
-image: "ghcr.io/djfabfab/ha-mcp-addons/{arch}-sequentialthinking"
+image: "ghcr.io/djfabfab/{arch}-ha-mcp-addons-sequentialthinking"
