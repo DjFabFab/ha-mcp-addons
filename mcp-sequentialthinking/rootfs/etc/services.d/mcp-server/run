@@ -12,4 +12,4 @@ fi
 
 bashio::log.info "Starting mcp-sequentialthinking..."
 
-exec npx -y supergateway --stdio "node dist/index.js" --port 8000
+exec npx -y supergateway --stdio "node /app/dist/index.js" --port 8000
