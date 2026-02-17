@@ -1,6 +1,6 @@
-# Home Assistant MCP Memory Server Add-on
+# Home Assistant MCP Fetch Server Add-on
 
-This add-on provides a MCP Memory Server based on https://github.com/modelcontextprotocol/servers
+This add-on provides a MCP Fetch Server based on https://github.com/modelcontextprotocol/servers
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]

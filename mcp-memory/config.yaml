@@ -21,4 +21,4 @@ options:
 schema:
   # Use nested option to force yaml editor on addon's config page
   log_level: list(trace|debug|info|notice|warning|error|fatal)
-image: "ghcr.io/DjFabFab/{arch}-ha-mcp-addons-memory"
+image: "ghcr.io/DjFabFab/ha-mcp-addons-memory"

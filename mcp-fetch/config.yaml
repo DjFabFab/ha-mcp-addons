@@ -1,9 +1,9 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
-name: MCP Memory Add-on
+name: MCP Fetch Add-on
 version: "0.0.1"
-slug: mcp-memory
-description: Memory MCP add-on for Home Assistant
-url: "https://github.com/DjFabFab/ha-mcp-addonstree/main/mcp-memory"
+slug: mcp-Fetch
+description: Fetch MCP add-on for Home Assistant
+url: "https://github.com/DjFabFab/ha-mcp-addonstree/main/mcp-fetch"
 host_network: false
 ingress: false
 panel_icon: "mdi:brain"
@@ -15,10 +15,10 @@ arch:
 ports:
   8000/tcp: 8012
 ports_description:
-  8000/tcp: Memory MCP server port
+  8000/tcp: Fetch MCP server port
 options:
   log_level: info
 schema:
   # Use nested option to force yaml editor on addon's config page
   log_level: list(trace|debug|info|notice|warning|error|fatal)
-image: "ghcr.io/DjFabFab/{arch}-ha-mcp-addons-memory"
+image: "ghcr.io/DjFabFab/ha-mcp-addons-fetch"
