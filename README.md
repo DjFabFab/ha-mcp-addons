@@ -22,6 +22,13 @@ This repository contains the following add-ons
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
 
+## Manual Build
+
+```bash
+cd mcp-fetch && docker build . -t mcp-fetch
+cd mcp-memory && docker build . -t mcp-memory
+cd mcp-sequentialthinking && docker build . -t mcp-sequentialthinking
+```
 
 <!--
 

@@ -1,0 +1,12 @@
+[submodule "mcp-fetch/src"]
+	path = mcp-fetch/src
+	url = https://github.com/modelcontextprotocol/servers
+[submodule "mcp-fetch/mcp-memory/src"]
+	path = mcp-fetch/mcp-memory/src
+	url = https://github.com/modelcontextprotocol/servers
+[submodule "mcp-memory/src"]
+	path = mcp-memory/src
+	url = https://github.com/modelcontextprotocol/servers
+[submodule "mcp-sequentialthinking/src"]
+	path = mcp-sequentialthinking/src
+	url = https://github.com/modelcontextprotocol/servers

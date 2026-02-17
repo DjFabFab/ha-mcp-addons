@@ -1,7 +1,7 @@
 FROM node:24.12-alpine AS builder
 
-COPY src /app
-COPY tsconfig.json /tsconfig.json
+COPY src/src/sequentialthinking /app
+COPY src/tsconfig.json /tsconfig.json
 
 WORKDIR /app
 
