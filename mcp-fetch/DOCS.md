@@ -1,0 +1,8 @@
+# Home Assistant Snapcast-server Add-on
+
+This add-on provides a MCP Fetch Server based on https://github.com/modelcontextprotocol/servers
+
+## How to use
+
+1. Install the addon.
+2. Connect mcp server through mcp integration: http://localhost:8012/sse

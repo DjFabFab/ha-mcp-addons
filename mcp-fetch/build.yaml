@@ -3,7 +3,7 @@ build_from:
   aarch64: ghcr.io/hassio-addons/base:20.0.1
   amd64: ghcr.io/hassio-addons/base:20.0.1
 labels:
-  org.opencontainers.image.title: "Sequential Thinking MCP add-on"
-  org.opencontainers.image.description: "Sequential Thinking MCP add-on for Home Assistant"
+  org.opencontainers.image.title: "Fetch MCP add-on"
+  org.opencontainers.image.description: "Fetch MCP add-on for Home Assistant"
   org.opencontainers.image.source: "https://github.com/DjFabFab/ha-mcp-addons"
   org.opencontainers.image.licenses: "Apache License 2.0"
